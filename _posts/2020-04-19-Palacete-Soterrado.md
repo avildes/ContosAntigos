@@ -23,6 +23,7 @@ Chegada na montanha
 
 Entrada no Palacete
 ---
+Ao entrar os jogadores veem a ruina do que um dia foi um dos quartos do palacete. Apesar de destruído po
 
 Encontro com os exploradores
 ---
@@ -58,6 +59,6 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MTExNzUwLDc4ODgyODYyMSwxOTk0OD
-Q4NDE4XX0=
+eyJoaXN0b3J5IjpbLTgxNTI1Mzk3Myw1NzUxMTE3NTAsNzg4OD
+I4NjIxLDE5OTQ4NDg0MThdfQ==
 -->
