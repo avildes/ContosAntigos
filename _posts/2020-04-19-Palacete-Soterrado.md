@@ -23,7 +23,9 @@ Chegada na montanha
 
 Entrada no Palacete
 ---
-Ao entrar os jogadores veem a ruina do que um dia foi um dos quartos do palacete. Apesar de destruído po
+Ao entrar os jogadores veem a ruina do que um dia foi um dos quartos do palacete. Apesar de destruído por conta do soterramento, é possível ver os adornos que um dia decoraram o ambiente.
+
+Uma passagem no fim do quarto leva os jogadores para uma escada aparentemente intacta. Desce
 
 Encontro com os exploradores
 ---
@@ -59,6 +61,6 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTI1Mzk3Myw1NzUxMTE3NTAsNzg4OD
-I4NjIxLDE5OTQ4NDg0MThdfQ==
+eyJoaXN0b3J5IjpbLTIwNTU0Mzg3MDMsNTc1MTExNzUwLDc4OD
+gyODYyMSwxOTk0ODQ4NDE4XX0=
 -->
