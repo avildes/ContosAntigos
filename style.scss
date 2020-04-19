@@ -8,6 +8,7 @@
 @import "reset";
 @import "variables";
 @import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -20,7 +21,8 @@ html {
 
 body {
   background: #D9C6A8;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4;
+  font-family: 'Roboto Mono';
   color: $darkGray;
 }
 
@@ -70,7 +72,7 @@ p {
 }
 
 a {
-  color: red;
+  color: #884343;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -214,7 +216,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Roboto Mono';
   font-size: 18px;
 
   @include mobile {
@@ -226,7 +228,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #4F2F21;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -255,9 +257,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #695733;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #695733;
     font-size: 22px;
     font-style: italic;
   }
