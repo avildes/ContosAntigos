@@ -1,8 +1,8 @@
 Um antigo palacete perdido na costa xxxxx foi um dia a casa de nobres excentricos que supostamente possuiam conexões com outros planos. Muitos guerreiros tentaram invadir o palacete para roubar seus tesouros e muitos pereceram na tentativa.
 
-![Mapa do Jogador](/assets/palacete soterrado/mapa 49x40.player.png)
+![Mapa do Jogador](https://github.com/avildes/ContosAntigos/raw/master/assets/palacete%20soterrado/mapa%2049x40.player.png)
 
-![Mapa do Mestre e JSON RPG MAP](/assets/palacete soterrado/palacete soterrado.rar)
+![Mapa do Mestre e JSON RPG MAP](https://github.com/avildes/ContosAntigos/raw/master/assets/palacete%20soterrado/palacete soterrado.rar)
 
 
 Motivação
