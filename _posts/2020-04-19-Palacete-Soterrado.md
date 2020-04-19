@@ -1,5 +1,10 @@
 Um antigo palacete perdido na costa xxxxx foi um dia a casa de nobres excentricos que supostamente possuiam conexões com outros planos. Muitos guerreiros tentaram invadir o palacete para roubar seus tesouros e muitos pereceram na tentativa.
 
+![Mapa do Jogador](/assets/palacete soterrado/mapa 49x40.player.png)
+
+![Mapa do Mestre e JSON RPG MAP](/assets/palacete soterrado/palacete soterrado.rar)
+
+
 Motivação
 ---
 Como recompensa de uma campanha os jogadores recebem uma informação sobre uma tapeçaria velha que um dos jogadores utiliza a um bom tempo para forrar o chão para dormir.  A peça possui uma imagem interessante demonstrando um grande salão repleto de tapeçarias e armas em suas paredes, entalhes no chão e enormes estátuas de pedra.
