@@ -1,7 +1,6 @@
 # Palacete Soterrado
 
-**Resumo da história**
-
+Um antigo palacete perdido na costa xxxxx contém grandes tesouros 
 
 Motivação
 ---
@@ -61,5 +60,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDg0ODQxOF19
+eyJoaXN0b3J5IjpbNjgyNjgxODQwLDE5OTQ4NDg0MThdfQ==
 -->
