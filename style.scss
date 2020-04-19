@@ -19,7 +19,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: #d2aa77; //$white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -70,7 +70,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $red;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -195,7 +195,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'MedievalSharp';
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -205,7 +205,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-
+	
   @include mobile {
     margin: 3px 0;
   }
@@ -274,9 +274,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid #e1ad6d;
+  border-bottom: 1px solid #e1ad6d;
+  background-color: #c99157;
 }
 
 footer {
