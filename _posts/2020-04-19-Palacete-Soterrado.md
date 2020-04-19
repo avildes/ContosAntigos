@@ -1,6 +1,6 @@
 # Palacete Soterrado
 
-Um antigo palacete perdido na costa xxxxx foi um dia a casa de nobres excentricos que supostamente possuiam conexões com outros planos. Muitos guerreiros tentaram invadir o palacete para roubar seus tesouros e me
+Um antigo palacete perdido na costa xxxxx foi um dia a casa de nobres excentricos que supostamente possuiam conexões com outros planos. Muitos guerreiros tentaram invadir o palacete para roubar seus tesouros e muitos pereceram na tentativa.
 
 Motivação
 ---
@@ -60,5 +60,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUxNDQ0OTUsMTk5NDg0ODQxOF19
+eyJoaXN0b3J5IjpbNzg4ODI4NjIxLDE5OTQ4NDg0MThdfQ==
 -->
